@@ -23,8 +23,8 @@ This is a fully decentralized certificate verification system built using:
 ## Project Structure
 
 ```
-project-root/
-  |- contract/         # Hardhat smart contract project
+certification-dapp/
+  |- smart-contract/         # Hardhat smart contract project
   |- frontend/         # React frontend app
   |- ipfs/             # Dockerized IPFS node
 ```
@@ -36,8 +36,7 @@ project-root/
 ## 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-cd YOUR_REPO_NAME
+git clone https://github.com/medaminerizki/blockchain_certificate_dApp.git
 ```
 
 ---
