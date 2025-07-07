@@ -136,9 +136,4 @@ docker-compose down
 ## Authors
 
 - Developed by **Mohamed Amine RIZKI**
-- Date: June 2025
-
----
-
-Happy Coding ✨
 
